@@ -8824,4 +8824,16 @@
  <Type>Script</Type>
  <Description> Autosplitting and Load Removal available (by rythin) </Description>
 </AutoSplitter>
+<AutoSplitter>
+    <Games>
+      <Game>Xuan-Yuan Sword 3 Beyond the Clouds and Mountains</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/WeiZhouHong/Swd3_AutoSplitters/blob/master/swd3.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>This ASL is compatible with Xuan-Yuan Sword 3 Beyond the Clouds and Mountains(SWD3) versions: V1.02CD, V1.02DVD </Description>
+    <Website>https://discord.gg/ypVsCrG</Website>
+ </AutoSplitter>
 </AutoSplitters>
+
